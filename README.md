@@ -1,4 +1,4 @@
-# TP-Progra-II-Spring (Sherlock Homes)
+# TP-Progra-II-Spring
 
 API REST (Spring Boot 3.3 / Java 21 / MySQL) para la gestión de un negocio de alquiler de
 estacionamiento tipo camping. Tres roles: **ADMINISTRADOR**, **EMPLEADO** y **SOCIO**.
