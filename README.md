@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # Estacionamiento · API
-=======
+
 # TP-Progra-II-Spring
->>>>>>> cf1232c9bd8174908f8ca36fc68b23f7f88329fe
 
 API REST (Spring Boot 3.3 / Java 21 / MySQL) para gestionar un **estacionamiento por horas** (estilo shopping
 o aeropuerto). Tres roles: **ADMINISTRADOR**, **EMPLEADO** y **SOCIO**. El front está en el proyecto
